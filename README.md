@@ -17,4 +17,4 @@ One perceived weakness is the environmental impact due to the amount of power ne
 # What is the prognosis for this company? 
 TO THE MOON!!!!!!!
 # Where do they expect to be in the future?
-Ethereum blockchain will be used for things such as voting, transfering real property rights, as well as validating ownership in the virtual and physical world.
+Once mainstream adoption has taken pace within the next 5-10 years, Ethereum blockchain will be used for things such as voting, transfering real property rights, as well as validating ownership in the virtual and physical world.
