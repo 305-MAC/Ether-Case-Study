@@ -1,4 +1,4 @@
-# Ether-Case-Study
+#*Ether-Case-Study
 ---
 # What is the background of your company? 
 Vitalik worked for Bitcoin magazine. He saw that new cryptos needed to create their own blockchain in order to exist. He saw this as an opporutnity to improve upon Bitcoin's technology. His vision was to create one decentralized blockchain where all of the apps can co-exist.
